@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "oddeven",
+            "request": "launch",
+            "mainClass": "com.example.oddeven",
+            "projectName": "MyJavaApp_23d5c750"
+        },
+        {
+            "type": "java",
+            "name": "condition",
+            "request": "launch",
+            "mainClass": "com.example.condition",
+            "projectName": "MyJavaApp_23d5c750"
+        },
+        {
+            "type": "java",
+            "name": "inputsum",
+            "request": "launch",
+            "mainClass": "com.example.inputsum",
+            "projectName": "MyJavaApp_23d5c750"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "com.example.input",
+            "projectName": "MyJavaApp_23d5c750"
+        },
+        {
+            "type": "java",
+            "name": "math",
+            "request": "launch",
+            "mainClass": "com.example.math",
+            "projectName": "MyJavaApp_23d5c750"
+        },
+        {
+            "type": "java",
+            "name": "star",
+            "request": "launch",
+            "mainClass": "com.example.star",
+            "projectName": "MyJavaApp_23d5c750"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "com.example.HelloWorld",
+            "projectName": "MyJavaApp_23d5c750"
+        }
+    ]
+}
